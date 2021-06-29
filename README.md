@@ -49,7 +49,7 @@ pm2 start index.js
 ```
 ---
 # 🙋‍♂️ Cómo cambiar la configuración del bot
-'''
+```
 cd
 cd Brizas-bot
 apt install nano
@@ -67,32 +67,18 @@ nano config.js
     <a href="#"><img title="Whatsapp-Bot" src="https://img.shields.io/badge/Termux Whatsapp Bot-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
     </p>
     <p align="center">
-    <a href="https://github.com/Axel-bytu"><img title="Author" src="https://img.shields.io/badge/Author-mhankbarbar-blue.svg?style=for-the-badge&logo=github"></a>
+    <a href="https://github.com/mhankbarbar"><img title="Author" src="https://img.shields.io/badge/Author-mhankbarbar-blue.svg?style=for-the-badge&logo=github"></a>
     </p>
     <p align="center">
-    <a href="https://github.com/Axel-bytu/followers"><img title="Followers" src="https://img.shields.io/github/followers/mhankbarbar?color=blue&style=flat-square"></a>
-    <a href="https://github.com/Axel-bytu/termux-wabot/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Axel-bytu/termux-wabot?color=red&style=flat-square"></a>
-    <a href="https://github.com/Axel-bytu/termux-wabot/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Axel-bytu/termux-wabot?color=red&style=flat-square"></a>
-    <a href="https://github.com/Axel-bytu/termux-wabot/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Axel-bytu/termux-wabot?label=Watchers&color=blue&style=flat-square"></a>
-    <a href="https://www.codefactor.io/repository/github/Axel-bytu/termux-wabot"><img src="https://www.codefactor.io/repository/github/Axel-bytu/termux-wabot/badge" alt="CodeFactor" /></a>
+    <a href="https://github.com/mhankbarbar/followers"><img title="Followers" src="https://img.shields.io/github/followers/mhankbarbar?color=blue&style=flat-square"></a>
+    <a href="https://github.com/mhankbarbar/termux-wabot/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/mhankbarbar/termux-wabot?color=red&style=flat-square"></a>
+    <a href="https://github.com/mhankbarbar/termux-wabot/network/members"><img title="Forks" src="https://img.shields.io/github/forks/mhankbarbar/termux-wabot?color=red&style=flat-square"></a>
+    <a href="https://github.com/mhankbarbar/termux-wabot/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/mhankbarbar/termux-wabot?label=Watchers&color=blue&style=flat-square"></a>
+    <a href="https://www.codefactor.io/repository/github/mhankbarbar/termux-wabot"><img src="https://www.codefactor.io/repository/github/mhankbarbar/termux-wabot/badge" alt="CodeFactor" /></a>
     </p>
 </h1>
----
 
 Bueno, este bot no se habría creado sin la base de [MhankBars] (https://github.com/MhankBarBar/termux-wabot), así que estoy agradecido por todo y que puso su base a mi disposición, incluso aunque modifiqué los montones del bot, le debo todo el crédito por hacer un bot rudo.
 
-## <img src="https://media.tenor.com/images/3c73ab1a2d871e65d0435c28f72f2944/tenor.gif" width="35px"> Contribuição
-
-[KillovSky](https://github.com/KillovSky/iris)
-
-[Gabriel](wa.me/+5511946817667)
-
-[Thoth](wa.me/+55d11930758170)
-
-[Italuh](https://github.com/italuH)
-
-[Adiwajshing](https://github.com/Axel-bytu)
-
-Gracias a estas bellezas por ayudarme a agregar nuevos comandos y por hacer de brizas orion uno de los mayores bots de wpp 😘
-
+---
 
