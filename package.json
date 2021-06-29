@@ -1,5 +1,5 @@
 {
-  "name": "brizas-bot",
+  "name": "sanli-bot",
   "version": "2.0.0",
   "description": "No comment",
   "main": "index.js",
@@ -17,7 +17,7 @@
     "whatsapp",
     "bot"
   ],
-  "author": "BrizasBot",
+  "author": "SanliBot",
   "license": "ISC",
   "dependencies": {
     "@adiwajshing/baileys": "^3.5.0",
@@ -60,7 +60,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ianmsfvenom/Brizas-bot.git"
+    "url": "git+https://github.com/Axel-bytu/Sanli-bot.git"
   },
   "bugs": {
     "url": "https://github.com/ianmsfvenom/Brizas-bot/issues"
