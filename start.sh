@@ -1,6 +1,6 @@
-#!bin/bash
-while : 
-do
-    npm start
-    sleep 1
-done
+#!bin / bash
+tiempo :
+del
+    inicio npm
+    dormir 1
+hecho
