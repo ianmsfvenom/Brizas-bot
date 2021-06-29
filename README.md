@@ -1,4 +1,4 @@
-# ☄️✨𝑩𝑹⃟𝑰𝒁𝑨𝑺 𝑶⃟𝑹𝑰𝑶𝑵✨☄️
+# ☄️✨𝐒𝐚𝐧𝐥𝐢 𝐛𝑶⃟𝐭.✨☄️
 <h1 align="center">
     <p>
         <img src= "https://thumbs.gfycat.com/ComplexSourKakapo-size_restricted.gif">
@@ -18,8 +18,6 @@
 - [O que é?](#🤔-O-que-é-?)
 - [Instalação](#⬇️-Instalação)
 - [Mudando as configurações](#🙋‍♂️-Como-mudar-as-configurações-do-bot)
-- [Donate](#🥺-Donate)
-- [Contatos](#🤝-Contato)
 - [Contruibuição](#Contribuição)
 
 # 🤔 O que é ?
@@ -57,7 +55,7 @@ cd Brizas-bot
 apt install nano
 nano config.js
 
-(ATENÇÃO MUDE APENAS OS NUMEROS ENTRE OS ACENTOS, NÃO REMOVA O @s.whatsapp.net)
+(ATENCIÓN SÓLO CAMBIAR LOS NÚMEROS ENTRE ACENTOS, NO ELIMINAR @ s.whatsapp.net)
 ```
 # 😘 Créditos
 
@@ -97,21 +95,5 @@ Bom, esse bot não teria sido feito sem a base do, [MhankBars](https://github.co
 [Adiwajshing](https://github.com/adiwajshing)
 
 Agradeço a esses gostosos por ter me ajudado a adicionar novos comandos e por ter feito e por fazer o brizas orion o um dos maiores bot de wpp 😘
-
----
-
-# 🥺 Donate
-[Paypal](https://www.paypal.com/donate/?hosted_button_id=QQ4MFP2AZV9TW)
-
-Pix
-
-<img src="https://i.imgur.com/891Ah3r.jpeg" width="300" >
-
----
-# 🤝 Contato
-
-[Whatsapp](https://api.whatsapp.com/send/?phone=%2B557187645787&text&app_absent=0)
-
-[Youtube](https://www.youtube.com/channel/UCK_e0brrGXeXk-zg2NFbJTg)
 
 
