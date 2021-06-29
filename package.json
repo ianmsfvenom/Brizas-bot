@@ -7,8 +7,8 @@
     "lib": "lib"
   },
   "scripts": {
-    "test": "nodo test.js" 
-    "start": "node index.js"
+    "test": "nodo test.js", 
+    "start": "nodo index.js",
   },
   "keywords": [
     "termux",
