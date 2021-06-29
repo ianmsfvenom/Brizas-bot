@@ -1,9 +1,9 @@
-const welcome = (number, groupname) => {
-    return `𝐎𝐥𝐚 @${number}. 𝐒𝐞𝐣𝐚 𝐛𝐞𝐦-𝐯𝐢𝐧𝐝𝐨 𝐚𝐨 𝐠𝐫𝐮𝐩𝐨 ${groupname}`
+const bienvenido = (número, nombre de grupo) => {
+    devuelve `𝐎𝐥𝐚 @ $ {número}. Bienvenido al grupo $ {nombre de grupo} `
 }
-exports.welcome = welcome
+export.welcome = bienvenido
 
-const bye = (number) => {
-    return `Adeus @${number}. Já vai tarde 👋`
+const bye = (número) => {
+    return `Adiós @ $ {número}. Es tarde 👋`
 }
-exports.bye = bye
+exportaciones.bye = adiós
