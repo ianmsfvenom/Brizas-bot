@@ -1,5 +1,5 @@
 {
-  "name": "sanli-bot",
+  "name": "Sanli-bot",
   "version": "2.0.0",
   "description": "No comment",
   "main": "index.js",
@@ -7,7 +7,7 @@
     "lib": "lib"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
+    "test": "nodo test.js" 
     "start": "node index.js"
   },
   "keywords": [
@@ -63,7 +63,7 @@
     "url": "git+https://github.com/Axel-bytu/Sanli-bot.git"
   },
   "bugs": {
-    "url": "https://github.com/ianmsfvenom/Brizas-bot/issues"
+    "url": "https://github.com/Axel-bytu/Sanli-bot/issues"
   },
-  "homepage": "https://github.com/ianmsfvenom/Brizas-bot#readme"
+  "homepage": "https://github.com/Axel-bytu/Sanli-bot#readme"
 }
