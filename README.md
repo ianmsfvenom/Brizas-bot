@@ -27,7 +27,7 @@ O Brizas bot é um bot com a base do [MhankBars](https://github.com/MhankBarBar/
 ---
 
 
-# ⬇️ Instalação
+# ⬇️ Instalación
 
 [Termux](https://play.google.com/store/apps/details?id=com.termux&hl=pt_BR&gl=US)
 
@@ -48,8 +48,8 @@ pm2 start index.js
 
 ```
 ---
-# 🙋‍♂️ Como mudar as configurações do bot
-```
+# 🙋‍♂️ Cómo cambiar la configuración del bot
+''
 cd
 cd Brizas-bot
 apt install nano
@@ -86,14 +86,12 @@ Bom, esse bot não teria sido feito sem a base do, [MhankBars](https://github.co
 
 [KillovSky](https://github.com/KillovSky/iris)
 
-[Gabriel](wa.me/+5511946817667)
-
 [Thoth](wa.me/+55d11930758170)
 
 [Italuh](https://github.com/italuH)
 
-[Adiwajshing](https://github.com/adiwajshing)
+[Adiwajshing](https://github.com/Axel-bytu)
 
-Agradeço a esses gostosos por ter me ajudado a adicionar novos comandos e por ter feito e por fazer o brizas orion o um dos maiores bot de wpp 😘
+Gracias a estas bellezas por ayudarme a agregar nuevos comandos y por hacer de brizas orion uno de los mayores bots de wpp 😘
 
 
