@@ -1,4 +1,4 @@
-# ☄️✨𝑩𝑹⃟𝑰𝒁𝑨𝑺 𝑶⃟𝑹𝑰𝑶𝑵✨☄️
+# ☄️✨𝐒𝐚𝐧𝐥𝐢 𝐛𝑶⃟𝐭.✨☄️
 <h1 align="center">
     <p>
         <img src= "https://thumbs.gfycat.com/ComplexSourKakapo-size_restricted.gif">
@@ -18,8 +18,6 @@
 - [O que é?](#🤔-O-que-é-?)
 - [Instalação](#⬇️-Instalação)
 - [Mudando as configurações](#🙋‍♂️-Como-mudar-as-configurações-do-bot)
-- [Donate](#🥺-Donate)
-- [Contatos](#🤝-Contato)
 - [Contruibuição](#Contribuição)
 
 # 🤔 O que é ?
@@ -29,13 +27,13 @@ O Brizas bot é um bot com a base do [MhankBars](https://github.com/MhankBarBar/
 ---
 
 
-# ⬇️ Instalação
+# ⬇️ Instalación
 
 [Termux](https://play.google.com/store/apps/details?id=com.termux&hl=pt_BR&gl=US)
 
 ```
-git clone https://github.com/ianmsfvenom/Brizas-bot
-cd Brizas-bot
+git clone https://github.com/Axel-bytu/Sanli-bot
+cd Sanli-bot
 bash install.sh
 npm install
 
@@ -50,14 +48,14 @@ pm2 start index.js
 
 ```
 ---
-# 🙋‍♂️ Como mudar as configurações do bot
+# 🙋‍♂️ Cómo cambiar la configuración del bot
 ```
 cd
-cd Brizas-bot
+cd Sanli-bot
 apt install nano
 nano config.js
 
-(ATENÇÃO MUDE APENAS OS NUMEROS ENTRE OS ACENTOS, NÃO REMOVA O @s.whatsapp.net)
+(ATENCIÓN SÓLO CAMBIAR LOS NÚMEROS ENTRE ACENTOS, NO ELIMINAR @ s.whatsapp.net)
 ```
 # 😘 Créditos
 
@@ -80,38 +78,10 @@ nano config.js
     </p>
 </h1>
 
-Bom, esse bot não teria sido feito sem a base do, [MhankBars](https://github.com/MhankBarBar/termux-wabot) então agradeço por tudo e por ele ter disponibilizado a base dele para mim, mesmo tendo modificado aos montes o bot, ainda sim devo todo o crédito pra ele por ter feito um bot foda.
+Bueno, este bot no se habría creado sin la base de [MhankBars] (https://github.com/MhankBarBar/termux-wabot), así que estoy agradecido por todo y que puso su base a mi disposición, incluso aunque modifiqué los montones del bot, le debo todo el crédito por hacer un bot rudo.
 
 ---
 
-## <img src="https://media.tenor.com/images/3c73ab1a2d871e65d0435c28f72f2944/tenor.gif" width="35px"> Contribuição
 
-[KillovSky](https://github.com/KillovSky/iris)
-
-[Gabriel](wa.me/+5511946817667)
-
-[Thoth](wa.me/+55d11930758170)
-
-[Italuh](https://github.com/italuH)
-
-[Adiwajshing](https://github.com/adiwajshing)
-
-Agradeço a esses gostosos por ter me ajudado a adicionar novos comandos e por ter feito e por fazer o brizas orion o um dos maiores bot de wpp 😘
-
----
-
-# 🥺 Donate
-[Paypal](https://www.paypal.com/donate/?hosted_button_id=QQ4MFP2AZV9TW)
-
-Pix
-
-<img src="https://i.imgur.com/891Ah3r.jpeg" width="300" >
-
----
-# 🤝 Contato
-
-[Whatsapp](https://api.whatsapp.com/send/?phone=%2B557187645787&text&app_absent=0)
-
-[Youtube](https://www.youtube.com/channel/UCK_e0brrGXeXk-zg2NFbJTg)
 
 
