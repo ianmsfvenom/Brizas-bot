@@ -1,5 +1,5 @@
 {
-  "name": "Sanli-bot",
+  "name": "Brizas-bot",
   "version": "2.0.0",
   "description": "No comment",
   "main": "index.js",
@@ -63,7 +63,7 @@
     "url": "git+https://github.com/Axel-bytu/Sanli-bot.git"
   },
   "bugs": {
-    "url": "https://github.com/Axel-bytu/Sanli-bot/issues"
+    "url": "https://github.com/ianmsfvenom/Brizas-bot/issues"
   },
-  "homepage": "https://github.com/Axel-bytu/Sanli-bot#readme"
+  "homepage": "https://github.com/ianmsfvenom/Brizas-bot#readme"
 }
