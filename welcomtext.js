@@ -1,9 +1,9 @@
 const welcome = (number, groupname) => {
-    return `𝐎𝐥𝐚 @${number}. 𝐒𝐞𝐣𝐚 𝐛𝐞𝐦-𝐯𝐢𝐧𝐝𝐨 𝐚𝐨 𝐠𝐫𝐮𝐩𝐨 ${groupname}`
+    return `𝐇𝐨𝐥𝐚 @${number}. 𝐒𝐞𝐚 𝐛𝐢𝐞𝐧𝐯𝐞𝐧𝐢𝐝𝐨 𝐚𝐥 𝐠𝐫𝐮𝐩𝐨 ${groupname}`
 }
 exports.welcome = welcome
 
 const bye = (number) => {
-    return `Adeus @${number}. Já vai tarde 👋`
+    return `Adios @${number}. Que tenga una bonita tarde 👋`
 }
 exports.bye = bye
